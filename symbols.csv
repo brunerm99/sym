@@ -1,0 +1,266 @@
+symbol,name,category
++,plus,math
+−,minus,math
+±,plus-minus,math
+×,multiplication,math
+÷,division,math
+⋅,dot operator,math
+∙,bullet operator,math
+=,equals,math
+≠,not equal,math
+≈,approximately equal,math
+≅,congruent to,math
+≡,identical,math
+≤,less or equal,math
+≥,greater or equal,math
+≪,much less than,math
+≫,much greater than,math
+∝,proportional to,math
+∞,infinity,math
+∴,therefore,math
+∵,because,math
+∑,summation,math
+∏,product,math
+∫,integral,math
+∬,double integral,math
+∭,triple integral,math
+∂,partial derivative,math
+∇,nabla,math
+√,square root,math
+∛,cube root,math
+∜,fourth root,math
+∠,angle,math
+⊥,perpendicular,math
+∥,parallel,math
+⊂,subset,math
+⊃,superset,math
+⊆,subset or equal,math
+⊇,superset or equal,math
+∈,element of,math
+∉,not element of,math
+∪,union,math
+∩,intersection,math
+⊕,direct sum,math
+⊗,tensor product,math
+⊖,symmetric difference,math
+∀,for all,math
+∃,there exists,math
+¬,negation,math
+∧,logical and,math
+∨,logical or,math
+⇒,implies,math
+⇔,iff,math
+↦,maps to,math
+→,right arrow,math
+←,left arrow,math
+↑,up arrow,math
+↓,down arrow,math
+↔,left-right arrow,math
+↕,up-down arrow,math
+↻,clockwise arrow,math
+↺,counterclockwise arrow,math
+
+Α,alpha (upper),greek
+α,alpha (lower),greek
+Β,beta (upper),greek
+β,beta (lower),greek
+Γ,gamma (upper),greek
+γ,gamma (lower),greek
+Δ,delta (upper),greek
+δ,delta (lower),greek
+Ε,epsilon (upper),greek
+ε,epsilon (lower),greek
+Ζ,zeta (upper),greek
+ζ,zeta (lower),greek
+Η,eta (upper),greek
+η,eta (lower),greek
+Θ,theta (upper),greek
+θ,theta (lower),greek
+Ι,iota (upper),greek
+ι,iota (lower),greek
+Κ,kappa (upper),greek
+κ,kappa (lower),greek
+Λ,lambda (upper),greek
+λ,lambda (lower),greek
+Μ,mu (upper),greek
+μ,mu (lower),greek
+Ν,nu (upper),greek
+ν,nu (lower),greek
+Ξ,xi (upper),greek
+ξ,xi (lower),greek
+Ο,omicron (upper),greek
+ο,omicron (lower),greek
+Π,pi (upper),greek
+π,pi (lower),greek
+Ρ,rho (upper),greek
+ρ,rho (lower),greek
+Σ,sigma (upper),greek
+σ,sigma (lower),greek
+ς,sigma (final),greek
+Τ,tau (upper),greek
+τ,tau (lower),greek
+Υ,upsilon (upper),greek
+υ,upsilon (lower),greek
+Φ,phi (upper),greek
+φ,phi (lower),greek
+Χ,chi (upper),greek
+χ,chi (lower),greek
+Ψ,psi (upper),greek
+ψ,psi (lower),greek
+Ω,omega (upper),greek
+ω,omega (lower),greek
+
+ϵ,epsilon variant,greek
+ϑ,theta variant,greek
+ϕ,phi script,greek
+ϰ,kappa variant,greek
+ϱ,rho variant,greek
+ϖ,pi variant,greek
+
+А,A (cyrillic),cyrillic
+Б,Be (cyrillic),cyrillic
+В,Ve (cyrillic),cyrillic
+Г,Ge (cyrillic),cyrillic
+Д,De (cyrillic),cyrillic
+Е,Ye (cyrillic),cyrillic
+Ё,Yo (cyrillic),cyrillic
+Ж,Zhe (cyrillic),cyrillic
+З,Ze (cyrillic),cyrillic
+И,I (cyrillic),cyrillic
+Й,Short I (cyrillic),cyrillic
+К,Ka (cyrillic),cyrillic
+Л,El (cyrillic),cyrillic
+М,Em (cyrillic),cyrillic
+Н,En (cyrillic),cyrillic
+О,O (cyrillic),cyrillic
+П,Pe (cyrillic),cyrillic
+Р,Er (cyrillic),cyrillic
+С,Es (cyrillic),cyrillic
+Т,Te (cyrillic),cyrillic
+У,U (cyrillic),cyrillic
+Ф,Ef (cyrillic),cyrillic
+Х,Kha (cyrillic),cyrillic
+Ц,Tse (cyrillic),cyrillic
+Ч,Che (cyrillic),cyrillic
+Ш,Sha (cyrillic),cyrillic
+Щ,Shcha (cyrillic),cyrillic
+Ъ,Hard sign,cyrillic
+Ы,Yeru,cyrillic
+Ь,Soft sign,cyrillic
+Э,E (cyrillic),cyrillic
+Ю,Yu,cyrillic
+Я,Ya,cyrillic
+
+а,a (cyrillic),cyrillic
+б,be (cyrillic),cyrillic
+в,ve (cyrillic),cyrillic
+г,ge (cyrillic),cyrillic
+д,de (cyrillic),cyrillic
+е,ye (cyrillic),cyrillic
+ё,yo (cyrillic),cyrillic
+ж,zhe (cyrillic),cyrillic
+з,ze (cyrillic),cyrillic
+и,i (cyrillic),cyrillic
+й,short i (cyrillic),cyrillic
+к,ka (cyrillic),cyrillic
+л,el (cyrillic),cyrillic
+м,em (cyrillic),cyrillic
+н,en (cyrillic),cyrillic
+о,o (cyrillic),cyrillic
+п,pe (cyrillic),cyrillic
+р,er (cyrillic),cyrillic
+с,es (cyrillic),cyrillic
+т,te (cyrillic),cyrillic
+у,u (cyrillic),cyrillic
+ф,ef (cyrillic),cyrillic
+х,kha (cyrillic),cyrillic
+ц,tse (cyrillic),cyrillic
+ч,che (cyrillic),cyrillic
+ш,sha (cyrillic),cyrillic
+щ,shcha (cyrillic),cyrillic
+ъ,hard sign,cyrillic
+ы,yeru,cyrillic
+ь,soft sign,cyrillic
+э,e (cyrillic),cyrillic
+ю,yu,cyrillic
+я,ya,cyrillic
+
+↩,return arrow,arrows
+↪,forward arrow,arrows
+⇐,double left arrow,arrows
+⇒,double right arrow,arrows
+⇑,double up arrow,arrows
+⇓,double down arrow,arrows
+⇱,diag arrow NE,arrows
+⇲,diag arrow SW,arrows
+⊢,turnstile,logic
+⊨,models,logic
+⊩,forces,logic
+⋮,vertical ellipsis,other
+⋯,horizontal ellipsis,other
+⋱,diagonal ellipsis,other
+•,bullet,other
+▪,square,other
+▫,hollow square,other
+◆,diamond,other
+◇,hollow diamond,other
+★,star,other
+☆,hollow star,other
+
+⁰,super 0,super
+¹,super 1,super
+²,super 2,super
+³,super 3,super
+⁴,super 4,super
+⁵,super 5,super
+⁶,super 6,super
+⁷,super 7,super
+⁸,super 8,super
+⁹,super 9,super
+₀,sub 0,sub
+₁,sub 1,sub
+₂,sub 2,sub
+₃,sub 3,sub
+₄,sub 4,sub
+₅,sub 5,sub
+₆,sub 6,sub
+₇,sub 7,sub
+₈,sub 8,sub
+₉,sub 9,sub
+⁺,super plus,super
+⁻,super minus,super
+⁼,super equals,super
+⁽,super left paren,super
+⁾,super right paren,super
+₊,sub plus,sub
+₋,sub minus,sub
+₌,sub equals,sub
+₍,sub left paren,sub
+₎,sub right paren,sub
+
+¢,cent,currency
+£,pound,currency
+¥,yen,currency
+€,euro,currency
+₿,bitcoin,currency
+§,section,other
+¶,pilcrow,other
+©,copyright,other
+®,registered,other
+™,trademark,other
+†,dagger,other
+‡,double dagger,other
+
+°,degree sign,angles_temperatures
+˚,ring above (spacing),angles_temperatures
+℉,fahrenheit sign,angles_temperatures
+℃,celsius sign,angles_temperatures
+K,kelvin sign (letterlike),angles_temperatures
+′,prime (arcminutes),angles_temperatures
+″,double prime (arcseconds),angles_temperatures
+‴,triple prime,angles_temperatures
+⁗,quadruple prime,angles_temperatures
+∡,measured angle,angles_temperatures
+⦛,spherical angle,angles_temperatures
+⦟,right angle with arc,angles_temperatures
+⦠,oblique angle,angles_temperatures
